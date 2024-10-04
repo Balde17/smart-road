@@ -79,8 +79,8 @@ This project will help you learn about:
 
 ## Authors
 
-* [sbadiane](https://learn.zone01dakar.sn/git/sbadiane)
-* [abdbalde](https://learn.zone01dakar.sn/git/abdbalde)
+* [Balde17](https://github.com/balde17)
+* [Stéphane](https://github.com/badStephane)
 
 ---
 
